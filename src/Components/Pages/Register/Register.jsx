@@ -167,7 +167,6 @@ const Register = () => {
               className="w-full px-4 py-3 rounded-md dark:border-gray-700 text-black bg-white"
             />
           </div>
-
           <div className="space-y-1 text-sm">
             <label htmlFor="password" className="block text-black">
               Password
@@ -192,7 +191,6 @@ const Register = () => {
             Sign Up
           </button>
         </form>
-
         <p className="text-xs text-center sm:px-6 text-black">
           Already have an account?
           <Link
