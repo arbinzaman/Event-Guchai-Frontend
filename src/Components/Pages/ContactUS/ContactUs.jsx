@@ -5,7 +5,7 @@ const ContactUs = () => {
         <div className="flex flex-col justify-between">
           <div className="space-y-2">
             <h2 className="text-4xl font-bold leading-tight lg:text-5xl">
-              Let's talk!
+              Let's talk! 
             </h2>
             <div className="text-black-600">
               Share your thoughts and we will get back to you as soon as
